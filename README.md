@@ -10,13 +10,6 @@ The strength is categorized as "Weak," "Medium," or "Strong," and the background
 - **Password Visibility Toggle**: Option to show or hide the password with a lock/unlock icon.
 - **Responsive Design**: Compatible with both desktop and mobile screens.
 
-## How to Use
-
-1. Open the project folder `D:\GD\Password` on your computer.
-2. Run `index.html` in a web browser by double-clicking it.
-3. Enter a password in the field provided. The application will evaluate the password strength and update the background color based on the strength of the password (Weak, Medium, or Strong).
-4. Use the lock/unlock icon to toggle the visibility of the password.
-
 ## Password Strength Criteria
 
 - **Weak**: Passwords shorter than 6 characters.
